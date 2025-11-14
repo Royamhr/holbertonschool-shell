@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #jdjdkkf
 h=0
 while ((  $h<=12 )); do
